@@ -17,6 +17,11 @@ header {
    border-bottom: 1px solid seashell;
 }
 
+.logo {
+   height: 50px;
+   padding-left: 10px;
+}
+
 nav {
    text-decoration: underline;
 }
@@ -26,9 +31,13 @@ main {
    align-items: center;
 }
 
-.logo {
-   height: 50px;
-   padding-left: 10px;
+main h4 {
+   font-size: 22px;
+}
+
+.month-tea img {
+   width: 300px;
+   height: 200px;
 }
 
 footer {
@@ -37,10 +46,10 @@ footer {
 
 .font {
    font-family: Helvetica;
-   color: seashell;
+   color: #FFF5EE;
 }
 
 .background {
-   background-color: black;
+   background-color: #000000;
    opacity: 0.9;
 }
