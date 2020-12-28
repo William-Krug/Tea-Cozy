@@ -1,0 +1,34 @@
+header {
+   background-color: black;
+   opacity: 0.9;
+   height: 69px;
+   border-bottom: 1px solid seashell;
+}
+
+main {
+   background-color: black;
+   opacity: 0.9;
+   display: inline-flex;
+   align-items: center;
+}
+
+.logo {
+   height: 50px;
+   padding-left: 10px;
+}
+
+footer {
+   background-color: black;
+   opacity: 0.9;
+   padding-left: 20px;
+}
+
+.font {
+   font-family: Helvetica;
+   color: seashell;
+}
+
+/* .background {
+   background-color: black;
+   opacity: 0.9;
+} */
