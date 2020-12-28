@@ -17,6 +17,10 @@ header {
    border-bottom: 1px solid seashell;
 }
 
+nav {
+   text-decoration: underline;
+}
+
 main {
    display: inline-flex;
    align-items: center;
